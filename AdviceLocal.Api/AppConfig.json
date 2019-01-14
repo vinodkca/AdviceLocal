@@ -1,0 +1,10 @@
+{    
+    "DBConnection": {
+        "SQLDIAD": "Data Source=172.16.0.4;Initial Catalog=AdviceLocal;User ID=AppDBAccess;Password=appdbaccess;"
+    },
+    "Client":{
+        "Limit": "1000",
+        "Skip": "1000"
+    }
+ }
+
